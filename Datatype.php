@@ -6,7 +6,7 @@
     $num4=array("HTML","CSS","JS");
     $num5=null;
 
-    echo $num;
+    echo  $num;
     var_dump($num)."<br>";
 
     echo $num1;
