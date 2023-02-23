@@ -88,6 +88,9 @@
 
     // Null coelcing
 
-    $res="7"??28;
-    echo $res;
+    // $res;
+
+
+    
+
 ?>
