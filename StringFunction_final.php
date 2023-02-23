@@ -75,4 +75,32 @@
 // echo($str);
 
 
+// $str = '<a href="https://www.w3schools.com">Go to w3schools.com</a>';
+// echo htmlentities($str);
+
+// $str = '<a href="https://www.w3schools.com">Go to w3schools.com</a>';
+// echo htmlspecialchars($str,ENT_QUOTES);
+
+
+// $str="Ibad Baig";
+// echo strtolower($str);
+// echo "<br>";
+// echo strtoupper($str);
+// echo "<br>";
+// echo lcfirst($str);
+// echo "<br>";
+// echo ucfirst($str);
+// echo "<br>";
+// echo ucwords($str);
+
+//  md5
+
+// $str="Hello";
+// echo md5($str,True);
+// echo "<br>";
+// echo md5($str,False);
+
+// echo sha1("Hello",true);
+
+echo number_format("100000",2,",",".");
 ?>
